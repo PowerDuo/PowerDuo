@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 <p align="center">I'm glad you are here.<br><b>This is going to be another amazing day in your life.</b></p>
 
-Currently we are working on two open source projects, including our website itself. This is going to be an opensource library of codes, where you can find any piece of code for FREE.
+Currently we are working on two open source projects, including our website itself. It is going to be an open library of codes, where you can find almost all types of code. It is and will always be FREE.
