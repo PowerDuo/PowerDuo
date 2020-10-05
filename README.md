@@ -1,4 +1,5 @@
 <!--
+                            DO NOT REMOVE THIS PART
 **PowerDuo/PowerDuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,8 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Duo.<br> Nice to see you here!</h1>
+<h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Duo.<br> Nice to see you here!</h1><br>
 
-<h2>Welcome to my GitHub page <img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471" width="30" /></h2>
+<h2>Welcome to my GitHub Account <img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471" width="30" /></h2><br>
 
 <p align="center">I'm glad you are here.<br><b>This is going to be another amazing day in your life.</b></p>
+
+Currently we are working on two open source projects, including our website itself. This is going to be an opensource library of codes, where you can find any piece of code for FREE.
