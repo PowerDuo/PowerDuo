@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <h1 align="center">Hi there<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! I am Duo.<br> Nice to see you here!</h1><br>
 
 <h2>Welcome to my GitHub Account <img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471" width="30" /></h2><br>
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 <p align="center">I'm glad you are here.<br><b>This is going to be another amazing day in your life.</b></p>
 
 Currently we are working on two open source projects, including our website itself. It is going to be an open library of codes, where you can find almost all types of code. It is and will always be FREE.
+-->
